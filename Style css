@@ -1,0 +1,208 @@
+body,head {
+  text-align: center;
+  position: relative}
+  
+#feelthemusic{
+    margin: 0px;
+    padding: 300px 200px;
+    background-image: url(Backgroun1.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    color: blanchedalmond;
+    
+  }
+
+
+
+  
+  .Artistimg {
+    width: 50%;
+  }
+  
+  #albumid {
+    margin: 100px;
+    padding: 200px 100px;
+    background-image:url(bts.img) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    text-align: relative;
+    text-transform: uppercase;
+    color: cornsilk;
+    font-family: cursive;
+  }
+  
+  #Album1id {
+    margin: 100px ;
+    padding: 200px 100px;
+    background-image:url(blackpink.img) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    position: relative;
+    color: cornsilk;
+    font-family: cursive;
+  }
+  
+  #Album2id {
+    margin: 100px;
+    padding: 200px 100px;
+    background-image:url(coldplay.album.img);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;
+    color: cornsilk;
+    font-family: cursive;
+  }
+  
+  #Album3id {
+    margin: 100px;
+    padding: 200px 100px;
+    background-image: url(9afa9ef0-3b0b-42e0-8b43-f8bf8d15cc02.jfif);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;
+    color: black;
+    font-family: cursive;
+  }
+  
+  .demo {
+      background-color: rgb(0,255,0);
+      opacity: 0.8;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+      color: rgb(0,0,0);
+  }
+  #Milano {
+      font-family:cursive ;
+
+  }
+  #BTS{
+    margin: 50px;
+    padding: 0px 10px;
+    background-image: url(BTS,_Love_Yourself_Answer,_album.img);
+    background-repeat: no-repeat;
+    background-size: relative;
+    background-position:center;
+  }
+  #Epiphany{
+    margin:50px;
+    padding: 0px 10px;
+    background-image: url(Map_of_the_Soul_Persona_.img);
+    background-repeat: no-repeat;
+    background-size: relative;
+    background-position:center;
+  }
+  #Boywithlove{
+    margin: 50px;
+    padding: 10px 0px;
+    background-image: url(BTS_-_Map_of_the_Soul_7.img);
+    background-repeat: no-repeat;
+    background-size: relative;
+    background-position:center;
+  } 
+  
+  #lifegoeson{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(BTS_-_Be.img);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;
+  }
+  #sunrise{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(coldplay.img);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;
+  }
+  #everglow {
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(head.img);
+    background-repeat:no-repeat;
+    background-size:auto;
+    background-position:center;
+  }
+  #Daylight{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(coldplay.album.img);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;
+  }
+  #Highspeed{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(parachutes.img);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center; 
+  }
+  #Gulabi{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(download.jfif);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center; 
+  }
+  #Dil{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(dil.jfif);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center; 
+  }
+  #Raaten{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(raaten.jfif);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center; 
+  }
+  #Lagjagale{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(Lagjagale.jfif);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center; 
+  }
+  #playing{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(area.jfif);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;  
+  }
+  #Kill{ 
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(kill.img);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;  
+  }
+  #How{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(blackpink-the-album.img);
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position:center;  
+  }
+  #boombayah{
+    margin: 50px;
+    padding: 10px 10px;
+    background-image: url(The-studio-BLACKPINK.img);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;  
+  }
